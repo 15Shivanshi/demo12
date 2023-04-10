@@ -1,0 +1,17 @@
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\Services.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\Services.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\AutoMapper.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\DataAccess.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\EntityFramework.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\DataAccess.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\DataAccess.dll.config
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\AutoMapper.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\AutoMapper.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\EntityFramework.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Release\Services.csproj.AssemblyReference.cache
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Release\Services.csproj.CoreCompileInputs.cache
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Release\Services.csproj.CopyComplete
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Release\Services.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Release\Services.pdb

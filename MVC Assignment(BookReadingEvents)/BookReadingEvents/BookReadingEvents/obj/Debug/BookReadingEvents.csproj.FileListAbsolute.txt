@@ -1,0 +1,528 @@
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll.config
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.pdb
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe.config
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.rsp
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe.config
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.rsp
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.AppContext.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Console.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Compression.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Claims.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.ValueTuple.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe.config
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.rsp
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\EntityFramework.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Services.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\WebGrease.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\AutoMapper.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Services.pdb
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\EntityFramework.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.pdb
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\DataAccess.pdb
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll.config
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\AutoMapper.pdb
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\AutoMapper.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csprojAssemblyReference.cache
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CoreCompileInputs.cache
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CopyComplete
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.pdb
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll.config
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.pdb
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe.config
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.rsp
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe.config
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.rsp
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.AppContext.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Console.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Compression.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Claims.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.ValueTuple.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe.config
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.rsp
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\EntityFramework.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\Services.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\WebGrease.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\AutoMapper.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\Services.pdb
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\EntityFramework.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.pdb
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\DataAccess.pdb
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll.config
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\AutoMapper.pdb
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\bin\AutoMapper.xml
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csprojAssemblyReference.cache
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CoreCompileInputs.cache
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CopyComplete
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.dll
+C:\Users\abhaymistry\Desktop\Abhay Mistry\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.pdb
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll.config
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.pdb
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe.config
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.rsp
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe.config
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.rsp
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.AppContext.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Console.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Compression.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Claims.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.ValueTuple.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe.config
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.rsp
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\EntityFramework.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\Services.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\WebGrease.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\AutoMapper.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\Services.pdb
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\EntityFramework.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.pdb
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\DataAccess.pdb
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll.config
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\AutoMapper.pdb
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\bin\AutoMapper.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csprojAssemblyReference.cache
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CoreCompileInputs.cache
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CopyComplete
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.pdb
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll.config
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.pdb
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe.config
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.rsp
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe.config
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.rsp
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.AppContext.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Console.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Compression.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Claims.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.ValueTuple.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe.config
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.rsp
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\EntityFramework.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Services.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\WebGrease.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\AutoMapper.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Services.pdb
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\EntityFramework.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.pdb
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\DataAccess.pdb
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll.config
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\AutoMapper.pdb
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\bin\AutoMapper.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.AssemblyReference.cache
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CoreCompileInputs.cache
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CopyComplete
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.pdb
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll.config
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.pdb
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe.config
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.rsp
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe.config
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.rsp
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.AppContext.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Console.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Compression.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Claims.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.ValueTuple.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe.config
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.rsp
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\EntityFramework.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Services.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\WebGrease.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\AutoMapper.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Services.pdb
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\EntityFramework.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.pdb
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\DataAccess.pdb
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll.config
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\AutoMapper.pdb
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\AutoMapper.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.AssemblyReference.cache
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CoreCompileInputs.cache
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CopyComplete
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll.config
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\BookReadingEvents.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.exe.config
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csc.rsp
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.exe.config
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\csi.rsp
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.AppContext.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Console.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Compression.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Claims.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.ValueTuple.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.exe.config
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\vbc.rsp
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\EntityFramework.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Services.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\WebGrease.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\AutoMapper.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Services.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\EntityFramework.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\EntityFramework.SqlServer.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Helpers.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Mvc.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Optimization.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.Razor.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\System.Web.WebPages.Razor.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Newtonsoft.Json.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Antlr3.Runtime.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\DataAccess.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\DataAccess.dll.config
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\AutoMapper.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\bin\AutoMapper.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.AssemblyReference.cache
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CoreCompileInputs.cache
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.csproj.CopyComplete
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\BookReadingEvents\obj\Debug\BookReadingEvents.pdb

@@ -1,0 +1,148 @@
+﻿@model Services.Models.BookReadingEvent
+
+@{
+    ViewBag.Title = "Details1";
+}
+
+<h2>Event Details</h2>
+
+<div>
+
+    <hr />
+    <button type="button" id="edit" class="pull-right btn btn-info" onclick="location.href='@Url.Action("Edit", "BookReadingEvents", new { id = Model.EventID })';return false;">EDIT</button>
+    <br>
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </dt>
+
+        <dd>
+                @Html.DisplayName(Model.StartTime.ToString().Substring(0,5)+ " Hours")
+        </dd>
+
+        @{
+            if (Model.Duration != 0)
+            {
+                <dt>
+                    @Html.DisplayNameFor(model => model.Duration)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Duration)
+                </dd>
+            }
+        }
+        @{
+            if (Model.Description != null && Model.Description != "")
+            {
+                <dt>
+                    @Html.DisplayNameFor(model => model.Description)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Description)
+                </dd>
+            }
+        }
+        @{
+            if (Model.OtherDetails != null && Model.OtherDetails != "")
+            {
+                <dt>
+                    @Html.DisplayNameFor(model => model.OtherDetails)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.OtherDetails)
+                </dd>
+
+            }
+        }
+
+        <dt>
+            @Html.DisplayName("Total invited to event ")
+        </dt>
+
+        <dd>
+            @{ string count = "";
+                if (Model.InvitedUsers != null && Model.InvitedUsers != "")
+                {
+                    count = Model.InvitedUsers.Split(',').Count().ToString();
+                }
+                else
+                {
+                    count = "0";
+                }
+            }
+            @Html.DisplayName(@count)
+        </dd>
+
+        @{
+            <dt>
+                @Html.DisplayNameFor(model => model.Comments)
+            </dt>
+
+            <dd>
+                @using (Html.BeginForm())
+                {
+
+                    @Html.AntiForgeryToken()
+
+                    @Html.Editor("EventID", new { htmlAttributes = new { @class = "form-control", @Style = "Display:None;", @value = Model.EventID } })
+                <div class="form-group form-inline">
+                    @Html.Editor("Comment", new { htmlAttributes = new { @class = "form-control", @placeholder = "Write a comment…", @Required="required" } })
+                    <input type="submit" value="Add" class="btn btn-default" /><br>
+                    @Html.ValidationMessage("Comment", "", new { @class = "text-danger" })
+
+
+
+                </div>
+                }
+                <div class="col-xs-12 col-md-4" style="overflow-wrap: break-word">
+                    @{ if (Model.Comments != null && Model.Comments.Count != 0)
+                        {
+                            foreach (var c in Model.Comments)
+                            {
+                                <strong class="user-name">@c.UserEmailID</strong><br>
+                                @Html.DisplayName(c.Description);<br />
+
+                            }
+                        }
+                    }
+                </div>
+            </dd>
+
+        }
+
+    </dl>
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

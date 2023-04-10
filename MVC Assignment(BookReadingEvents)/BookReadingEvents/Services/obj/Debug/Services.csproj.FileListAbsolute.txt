@@ -1,0 +1,85 @@
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\Services.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\Services.pdb
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\AutoMapper.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\DataAccess.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\EntityFramework.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\DataAccess.pdb
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\DataAccess.dll.config
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\AutoMapper.pdb
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\AutoMapper.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\EntityFramework.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\obj\Debug\Services.dll
+C:\Users\nikhilkakkar\Downloads\BookReadingEvents\BookReadingEvents\Services\obj\Debug\Services.pdb
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\Services.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\Services.pdb
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\AutoMapper.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\DataAccess.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\EntityFramework.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\DataAccess.pdb
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\DataAccess.dll.config
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\AutoMapper.pdb
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\AutoMapper.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\EntityFramework.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\obj\Debug\Services.dll
+C:\Users\rounakverma\source\repos\BookReadingEvents\Services\obj\Debug\Services.pdb
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\Services.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\Services.pdb
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\AutoMapper.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\DataAccess.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\EntityFramework.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\DataAccess.pdb
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\DataAccess.dll.config
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\AutoMapper.pdb
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\AutoMapper.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\EntityFramework.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\obj\Debug\Services.dll
+C:\Users\shivanshisachan\Desktop\be\BookReadingEvents\BookReadingEvents\Services\obj\Debug\Services.pdb
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\Services.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\Services.pdb
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\AutoMapper.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\DataAccess.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\EntityFramework.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\DataAccess.pdb
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\DataAccess.dll.config
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\AutoMapper.pdb
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\AutoMapper.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\EntityFramework.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Debug\Services.dll
+C:\Users\shivanshisachan\shivanshi-sachan\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Debug\Services.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\Services.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\Services.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\AutoMapper.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\DataAccess.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\EntityFramework.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\DataAccess.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\DataAccess.dll.config
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\AutoMapper.pdb
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\AutoMapper.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\EntityFramework.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Debug\Services.dll
+C:\Users\shivanshisachan\Desktop\MVC Assignment(BookReadingEvents)\BookReadingEvents\Services\obj\Debug\Services.pdb
